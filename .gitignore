@@ -1,0 +1,8 @@
+*.class
+*.settings
+.myeclipse
+.classpath
+.project
+.mymetadata
+db.properties
+email.properties
